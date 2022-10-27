@@ -9,6 +9,6 @@
  - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js-logo"/>
  
  
- <h2> Nesse projeto aprendi a atualizar dados de um site em tempo real com HTML, CSS, JavaScript e Firebase na live da DIO </h2>
+ <h2> ⚽️ Nesse projeto aprendi a atualizar dados de um site em tempo real com HTML, CSS, JavaScript e Firebase na live da DIO </h2>
 
  
