@@ -10,5 +10,11 @@
  
  
  <h2> 👨‍💻 Nesse projeto aprendi a atualizar dados de um site em tempo real com HTML, CSS, JavaScript e Firebase na live da DIO </h2>
+ 
+ App final:
+ 
+ <p align="center">
+    <img width="300" src="./assets/imgs/final.png">
+</p>
 
  
