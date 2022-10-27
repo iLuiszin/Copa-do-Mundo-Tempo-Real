@@ -1,4 +1,4 @@
-# ⚽️💻Copa-do-Mundo-Tempo-Real
+# ⚽️Copa-do-Mundo-Tempo-Real
 
  
  <h2>💻Tecnologias utilizadas: </h2><br>
